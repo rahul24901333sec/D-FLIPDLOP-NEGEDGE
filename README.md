@@ -1,8 +1,8 @@
  # D-FLIPDLOP-NEGEDGE
 
-Developed by: HARIHARAN.V
+Developed by: RAHUL.R
 
-RegisterNumber:212224220032
+RegisterNumber:212224050034
 
 **AIM:**
 
